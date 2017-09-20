@@ -1,3 +1,6 @@
+# Generic header stuff
+
+
 from pyomo.environ import *
 infinity = float('inf')
 
